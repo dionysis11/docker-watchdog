@@ -311,7 +311,7 @@ To view our Code UML and Visuals click [here](docs/visuals.md)
 
 [Ioannis Tampakis](mailto:giannistampakis04@gmail.com),
 [Thodoris Zarkalis](mailto:zarkalhs@gmail.com),
-[Iasonas Passam](mailto:),
+[Iasonas Passam](mailto:glytsosdionysios@gmail.com),
 [Dionysis Glytsos](mailto:)
 
 Contributors:
